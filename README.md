@@ -6,3 +6,4 @@
 - [3、cp](https://mp.csdn.net/console/editor/html/108112491)<br>
 - [4、ls](https://blog.csdn.net/Revendell/article/details/108209679)<br>
 - [5、pwd](https://blog.csdn.net/Revendell/article/details/108249386)<br>
+- [6、stty](https://blog.csdn.net/Revendell/article/details/108270881)<br>
