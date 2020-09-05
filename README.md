@@ -11,3 +11,4 @@
 - [8、屏幕编程curses库](https://blog.csdn.net/Revendell/article/details/108392686)<br>
 - [9、时钟编程——alarm、pause、getitimer、setitimer](https://blog.csdn.net/Revendell/article/details/108393109)<br>
 - [10、信号处理——signal、sigaction](https://blog.csdn.net/Revendell/article/details/108412851)<br>
+- [11、视频游戏：阻塞信号、输入信号异步IO——sigprocmask、kill](https://blog.csdn.net/Revendell/article/details/108413822)<br>
