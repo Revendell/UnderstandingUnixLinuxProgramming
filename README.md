@@ -14,3 +14,4 @@
 - [11、视频游戏：阻塞信号、输入信号异步IO——sigprocmask、kill](https://blog.csdn.net/Revendell/article/details/108413822)<br>
 - [12、psh——execvp、fork、wait、_exit](https://blog.csdn.net/Revendell/article/details/108438677)<br>
 - [13、smsh——编写自己的shell](https://blog.csdn.net/Revendell/article/details/108478047)<br>
+- [14、IO重定向——dup、dup2](https://blog.csdn.net/Revendell/article/details/108505906)<br>
