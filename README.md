@@ -17,3 +17,4 @@
 - [14、IO重定向——dup、dup2](https://blog.csdn.net/Revendell/article/details/108505906)<br>
 - [15、管道——pipe](https://blog.csdn.net/Revendell/article/details/108523592)<br>
 - [16、fdopen、popen](https://blog.csdn.net/Revendell/article/details/108590438)<br>
+- [17、socket——socket、bind、listen、accept、connect](https://blog.csdn.net/Revendell/article/details/108722368)<br>
